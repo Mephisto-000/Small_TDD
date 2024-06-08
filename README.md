@@ -29,5 +29,8 @@ Test-Driven Development Practice Project
     1. 測試和生產程式碼
     2. 模組化
     3. 去除冗餘(Redundancy)
+    4. 目前的問題
 
 - [Python中的模組](https://hackmd.io/VvY5o38VQvmsBszif69Xag)
+    1. 程式碼分成模組
+    2. 去除冗於  
