@@ -24,3 +24,10 @@ Test-Driven Development Practice Project
 
 第二部分 模組化
 ---
+
+- [關注點分離-Separation of Concerns](https://hackmd.io/q75VCUvtSkmPO-HJX4_Yzg?view)
+    1. 測試和生產程式碼
+    2. 模組化
+    3. 去除冗餘(Redundancy)
+
+- [Python中的模組](https://hackmd.io/VvY5o38VQvmsBszif69Xag)
